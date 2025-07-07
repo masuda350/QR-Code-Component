@@ -3,8 +3,12 @@
 }
 
 body {
-    background-color: #68778d;
+    background-color: #d6e2f0;
     font-family: "Outfit", sans-serif;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
 #qr-grid-container {
